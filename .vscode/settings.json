@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "condition_variable": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "mutex": "cpp"
+    }
+}
